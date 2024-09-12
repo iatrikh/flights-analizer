@@ -111,7 +111,7 @@ public class Utils {
             long hours = minFlightDuration / 60;
             long minutes = minFlightDuration % 60;
 
-            System.out.println(airline + " - " + hours + " часов, " + minutes + " минут");
+            System.out.println(airline + " - " + hours + " часов, " + minutes + " минут.");
         }
     }
 }

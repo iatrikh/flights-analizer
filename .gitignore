@@ -1,4 +1,3 @@
-target/flights-analizer-1.0-SNAPSHOT.jar
 target/classes/ru/ideaplatform/Flight.class
 target/classes/ru/ideaplatform/Main.class
 target/classes/ru/ideaplatform/Utils.class
@@ -8,3 +7,4 @@ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 target/classes/tickets.json
+target/flights-analizer-1.0-SNAPSHOT.jar.original
